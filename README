@@ -1,9 +1,10 @@
-This is a fork of phpmark found here:
+This is a fork of phpmark. The original can be found here:
 
 http://code.google.com/p/phpmark/
 
-The fork adds Laravel 3.1.3 and Symfony 2. For Symfony 2, I used the
-Symfony project's own optimized Symfony installer:
+The fork adds Laravel 3.1.3, Silex, and Symfony 2. For Silex, I used
+the latest release (2012-03-31). For Symfony 2, I used the Symfony
+project's own optimized Symfony installer:
 
 https://github.com/symfony/symfony-hello-world
 
