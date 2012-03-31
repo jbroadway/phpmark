@@ -1,0 +1,21 @@
+March 30, 2012
+==============
+- forked and added Laravel and Symfony2
+
+October 19, 2010
+================
+- upgraded all frameworks to their latest releases
+
+January 22, 2009
+================
+- upgraded all frameworks to their latest releases
+- changed the default action from a die() statement to an echo statement
+
+December 26, 2008
+=================
+- upgraded all frameworks to their latest releases
+- changed Zend application by enabling autoload with Zend_Loader
+
+October 22, 2008
+================
+- initial release
