@@ -1,3 +1,0 @@
-TestHelloBundle_homepage:
-    pattern:  /hello/{name}
-    defaults: { _controller: TestHelloBundle:Default:index }
