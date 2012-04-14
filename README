@@ -9,7 +9,7 @@ This fork adds several additional frameworks:
 * Silex
 * Symfony 2
 
-> Note: For the [Elefant web framework](http://www.elefantcms.com/), see [phpmark-elefant](https://github.com/jbroadway/phpmark-elefant).
+> Note: For the Elefant framework, see https://github.com/jbroadway/phpmark-elefant
 
 For Silex, which doesn't seem to use version numbers, I used the latest
 release (2012-03-31). For Symfony 2, I used the Symfony project's own
