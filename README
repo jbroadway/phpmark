@@ -35,7 +35,8 @@ please log an issue at http://code.google.com/p/phpmark/issues/list
 
 baseline-html:               /baseline/index.html
 baseline-php:                /baseline/index.php
-CakePHP 1.3.4:               /cakephp-1.3.4/app/webroot/index.php/benchmark 
+CakePHP 1.3.4:               /cakephp-1.3.4/app/webroot/index.php/benchmark
+CakePHP 2.1.1:               /cakephp-2.1.1/app/webroot/index.php/benchmark
 CodeIgniter 1.7.2:           /codeigniter-1.7.2/index.php
 CodeIgniter 2.1.0:           /codeigniter-2.1.0/index.php
 FatFree 2.0.9:               /fatfree-2.0.9/
