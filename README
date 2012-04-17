@@ -49,3 +49,4 @@ Symfony 2:                   /symfony-standard/web/app.php/hello/world
 Yii 1.1.4:                   /yii-1.1.4/index.php
 Yii 1.1.10:                  /yii-1.1.10/demos/helloworld/index.php
 Zend 1.10.8:                 /zend-1.10.8/index.php
+Zend 1.11.11:                /zend-1.11.11/index.php
