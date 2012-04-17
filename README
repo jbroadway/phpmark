@@ -41,10 +41,11 @@ CodeIgniter 1.7.2:           /codeigniter-1.7.2/index.php
 CodeIgniter 2.1.0:           /codeigniter-2.1.0/index.php
 FatFree 2.0.9:               /fatfree-2.0.9/
 FuelPHP 1.1:                 /fuelphp-v1.1/public/hello/world
-Kohana 3.2:                   /kohana-3.2-master-1/
+Kohana 3.2:                  /kohana-3.2-master-1/
 Laravel 3.1.3:               /laravel-3.1.3/public/hello
 Silex:                       /silex-master/index.php/hello/world
 Symfony 1.4.8:               /symfony-1.4.8/web/index.php
 Symfony 2:                   /symfony-standard/web/app.php/hello/world
 Yii 1.1.4:                   /yii-1.1.4/index.php
+Yii 1.1.10:                  /yii-1.1.10/demos/helloworld/index.php
 Zend 1.10.8:                 /zend-1.10.8/index.php
