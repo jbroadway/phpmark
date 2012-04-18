@@ -1,0 +1,6 @@
+2012-04-18 21:08:07 Warning: Warning (512): _cake_core_ cache was unable to write 'file_map' to File cache in [/Users/lux/Sites/phpmark/cakephp-2.1.1/lib/Cake/Cache/Cache.php, line 306]
+Trace:
+Cache::write() - CORE/Cake/Cache/Cache.php, line 306
+App::shutdown() - CORE/Cake/Core/App.php, line 890
+[main] - [internal], line ??
+
